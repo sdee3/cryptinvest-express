@@ -3,7 +3,7 @@ An Express &amp; MongoDB backend app with user login &amp; registration function
 
 ## Usage
 - Clone this repository
-- ~~~~npm start~~~~
+- npm start
 - Enjoy!
 
 ## Database info
