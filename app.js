@@ -11,7 +11,7 @@ const methodOverride = require('method-override');
 const app = express();
 
 // Connect to mongoose
-mongoose.connect("mongodb://stefandjokic:sdee3@ds111078.mlab.com:11078/cryptinvest")
+mongoose.connect("mongodb://username:password@ds111078.mlab.com:11078/cryptinvest")
   .then(() => {
     console.log("MongoDB Connected!");
   })
